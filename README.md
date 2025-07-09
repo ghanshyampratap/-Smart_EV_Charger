@@ -20,4 +20,6 @@ This project is a smart and affordable Electric Vehicle (EV) charger designed to
 3. It schedules the charging time accordingly.
 4. The user can monitor or adjust charging anytime through the mobile app.
 
+## 🖼️ Images & Videos
+Here you can find project images and demo videos:
 
