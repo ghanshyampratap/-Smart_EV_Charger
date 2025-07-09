@@ -25,3 +25,4 @@ Here you can find project images and demo videos:
 
 ![Enhanced_Clear_Text](https://github.com/user-attachments/assets/0d8ea67d-3547-4275-b3ac-098afcf2ed44)
 ![Enhanced_141854](https://github.com/user-attachments/assets/0fd798e6-b4ce-4323-a6ac-53ff001776e5)
+![Enhanced_141742](https://github.com/user-attachments/assets/d1d20e1d-ee49-46ca-95ed-d1c4e78e15ab)
